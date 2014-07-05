@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>HTML5 game</title>
+		<meta charset="utf-8" />
+		<meta name="author" content="Viktor Ivanov" />
+		<meta name="description" content="description" />
+		<meta name="keywords" content="keywords" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	</head>
+	<body>
+		<div id="wrapper" style="position: relative; width: 800px; margin: auto;">
+			<canvas id="game-canvas" width="800" height="592" style="position: relative; z-index: 1; background: red;"></canvas>
+			<canvas id="player-canvas" width="800" height="592" style="position: relative; top: -596px; z-index: 10;"></canvas>
+			<canvas id="map-forground" width="800" height="592" style="position: relative; top: -617px; margin-top: -596px;"></canvas>
+		</div>
+		<script src="maps/map1.json"></script>
+		<script src="maps/map1-forground.json"></script>
+		<script src="script/render_scene.js"></script>
+		<script src="script/ken.json"></script>
+		<script src="script/game.js"></script>
+	</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="37" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tilesheet_0" tilewidth="16" tileheight="16">
+  <image source="C:/Users/Viktor/Desktop/proba/tilesheet_0.png" trans="ff00ff" width="320" height="1568"/>
+ </tileset>
+ <layer name="background" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJzt0cENACAMw8DuP0LZAVaELRwqPyL/c11V660/7347A0r/qIceyaV/1EOP5NI/6qFHcukf9dAjufSPeuiRXPpHPfRILv2jHnokl/5RDz2SS/+ox0yPC33Wow4=
+  </data>
+ </layer>
+ <layer name="foreground" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJzt1MsuA2EYxvEpaW31gBvQA26Atgi2PSHYthIEW5a4EuECnKrsnd2AHnADesANaOs/O5mFmPTrlHqf5Jd0Ft+X50lmqmmS/5ADu6Yd4gjHOEEap8jYW93u57mg6yWucI0b3OIO9xbvyCKHPAomzz7QNYsc8ijgEU94tnhHESWUUTF59oWuRZRQRgWveMO7xTuqqKGuP9jMnf2gaxU11PXeDq5ABzodyqt+GyfdXXDDY3JHN12dcMEND3rQiz7DjokuTZvEVJe67l/jpbsPfgRM7uinqxc++BHAAAYxZNgxR/95LDRpRyMZpusIggghjFGMYdywY5X+a1hXtMMFNzwK7orQNYoY4khgGjOYNezYov82dhTt8MGPgIK7knRNYRF7vJP7WOL3Mlaa/J0HEUJY4Z279M/gzOT31UhiiCOh8M50C3aoToTu0TbYkaR7qg12bNB906Id+n9Js1mxI2NrPn3D+R9+ryQSiUQikUgkEolE8nvzCfh1adw=
+  </data>
+ </layer>
+ <layer name="top" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJztzrENACAIAEH2X0R3wOFkAwtJaO6S7z8CAOBtVXt6okFWZ3oCAAAAAPh2AWDgAsc=
+  </data>
+ </layer>
+ <objectgroup name="collision" width="50" height="37">
+  <object name="hrast" type="hrast" x="381" y="259"/>
+  <object name="house" type="house" x="369" y="113" width="93" height="69"/>
+ </objectgroup>
+</map>

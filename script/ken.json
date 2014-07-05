@@ -1,0 +1,171 @@
+var kenStand = {"frames": [
+
+{
+	"filename": "ken_stand1.png",
+	"frame": {"x":170,"y":84,"w":36,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":4,"w":36,"h":79},
+	"sourceSize": {"w":56,"h":83}
+},
+{
+	"filename": "ken_stand2.png",
+	"frame": {"x":208,"y":84,"w":36,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":36,"h":79},
+	"sourceSize": {"w":56,"h":83}
+},
+{
+	"filename": "ken_stand3.png",
+	"frame": {"x":170,"y":84,"w":36,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":36,"h":79},
+	"sourceSize": {"w":56,"h":83}
+},
+{
+	"filename": "ken_stand4.png",
+	"frame": {"x":2,"y":167,"w":36,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":36,"h":81},
+	"sourceSize": {"w":56,"h":83}
+}
+]
+}
+
+//----------------------------------------------------------------------
+
+var kenMove = {"frames": [
+{
+	"filename": "ken_move1.png",
+	"frame": {"x":136,"y":2,"w":38,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":38,"h":79},
+	"sourceSize": {"w":44,"h":83}
+},
+{
+	"filename": "ken_move2.png",
+	"frame": {"x":176,"y":2,"w":30,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":7,"w":30,"h":73},
+	"sourceSize": {"w":44,"h":83}
+},
+{
+	"filename": "ken_move3.png",
+	"frame": {"x":208,"y":2,"w":32,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":79},
+	"sourceSize": {"w":44,"h":83}
+},
+{
+	"filename": "ken_move4.png",
+	"frame": {"x":2,"y":84,"w":32,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":32,"h":79},
+	"sourceSize": {"w":44,"h":83}
+},
+{
+	"filename": "ken_move5.png",
+	"frame": {"x":36,"y":84,"w":36,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":81},
+	"sourceSize": {"w":44,"h":83}
+}]
+}
+
+//----------------------------------------------------------------------
+
+var kenPunch = {"frames": [
+{
+	"filename": "ken_punch1.png",
+	"frame": {"x":74,"y":84,"w":38,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":38,"h":80},
+	"sourceSize": {"w":58,"h":80}
+},
+{
+	"filename": "ken_punch2.png",
+	"frame": {"x":114,"y":84,"w":54,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":54,"h":80},
+	"sourceSize": {"w":58,"h":80}
+},
+{
+	"filename": "ken_punch3.png",
+	"frame": {"x":74,"y":84,"w":38,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":38,"h":80},
+	"sourceSize": {"w":58,"h":80}
+}]
+}
+
+//----------------------------------------------------------------------
+
+var kenJump = {"frames": [
+{
+	"filename": "ken_jump1.png",
+	"frame": {"x":2,"y":2,"w":30,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":3,"w":30,"h":74},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump2.png",
+	"frame": {"x":34,"y":2,"w":34,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":34,"h":80},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump3.png",
+	"frame": {"x":70,"y":2,"w":30,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":30,"h":78},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump4.png",
+	"frame": {"x":102,"y":2,"w":32,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":32,"h":68},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump5.png",
+	"frame": {"x":70,"y":2,"w":30,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":30,"h":78},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump6.png",
+	"frame": {"x":34,"y":2,"w":34,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":34,"h":80},
+	"sourceSize": {"w":44,"h":80}
+},
+{
+	"filename": "ken_jump7.png",
+	"frame": {"x":2,"y":2,"w":30,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":3,"w":30,"h":74},
+	"sourceSize": {"w":44,"h":80}
+}]
+}

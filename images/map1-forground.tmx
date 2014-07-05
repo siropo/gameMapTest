@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="37" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tilesheet_0" tilewidth="16" tileheight="16">
+  <image source="C:/Users/Viktor/Desktop/proba/tilesheet_0.png" trans="ff00ff" width="320" height="1568"/>
+ </tileset>
+ <layer name="background" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJztzgENAAAIA6D3r2BZW9zNQQISgD/mOgAAAAAAAFQssdYAnA==
+  </data>
+ </layer>
+ <layer name="foreground" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJzt1EtyAVEYhuGDwphYQ9gGpslQTBllc+42kJCwAXcbiPsG3F4zI+VU2lH091Y9gx6c7v8fnDZG+aFS2JgyKqiihjoaaIbvPd31fTHrN1po4we/6KDreI8+BhhiZHm2x6x9DDDECGNMMHW8xwxzLLC0PPvHrDPMscASK6yxcbzHDnscTg8Bu7NbZt1hj8Np7givQBChiOejXix2NnvCcg+b0lFjMshGb/cNF+WY/wP5B9/D6+J4QeLeg/yzVySR8uBdhQt3+dPxPVfP1Rv/6vcb/q9dVWCH4hPsoZRSSimllFJKKX91BCrmLXA=
+  </data>
+ </layer>
+ <layer name="top" width="50" height="37">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAAAAAAAAvgwc6AAB
+  </data>
+ </layer>
+ <objectgroup name="collision" width="50" height="37">
+  <object name="hrast" type="hrast" x="381" y="259"/>
+  <object name="house" type="house" x="369" y="113" width="93" height="69"/>
+  <object name="rock" type="rock" x="47" y="187" width="47" height="27"/>
+  <object name="tree" type="tree" x="130" y="117" width="27" height="27"/>
+  <object name="hut" type="hut" x="531" y="140" width="41" height="35"/>
+ </objectgroup>
+</map>
