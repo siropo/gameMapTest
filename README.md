@@ -1,4 +1,4 @@
 gameMapTest
 ===========
 
-demo link: http://avaart.net/siropo_portfolio/games/mapTest/
+demo link: http://siropo.eu/portfolio/games/mapTest/
